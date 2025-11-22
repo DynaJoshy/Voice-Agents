@@ -7,3 +7,5 @@ livekit-server --dev &
 
 # Wait for all background jobs
 wait
+
+   
